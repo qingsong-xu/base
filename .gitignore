@@ -12,6 +12,9 @@
 /captures
 .externalNativeBuild
 .cxx
+#把.idea/自动生成的所有文件忽略
+/.idea/*.xml
+/.idea/*
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/git,gradle,android,androidstudio
